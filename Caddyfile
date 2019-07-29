@@ -4,8 +4,8 @@
     root .
     
     git {
-        repo 
-        branch master https://github.com/threefoldfoundation/moberisr_dataTeam
+        repo https://github.com/threefoldfoundation/moberisr_dataTeam
+        branch master 
         hook /webhook "zU3687$aJEb6"
         key ~/.ssh/id_rsa
         path . 
