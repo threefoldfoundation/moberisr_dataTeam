@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ThreeFold.Tech",
-    "currentPage": "about-us.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -92,7 +92,7 @@
       }
     ],
     "uniqCompNum": 175,
-    "versionPublish": "4.10.6",
+    "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/screenshot-2019-06-14-at-13.31.36-128x128.png",
     "noImageResize": ""
@@ -896,7 +896,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "\n\n\n<div id=\"Container\" style=\"padding-bottom:85Vh; position:relative; display:block; width: 100%\">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://wiki.team.grid.tf/wiki/wiki_team#/threefold_tech?sidebar=hide&github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>\n    \n",
+          "_customHTML": "\n\n\n<div id=\"Container\" style=\"padding-bottom:40%; position:relative; display:block; width: 100%\">\n <iframe id=\"ViostreamIframe\" width=\"100%\" height=\"100%\" src=\"https://wiki.team.grid.tf/wiki/wiki_team#/threefold_tech?sidebar=hide&github=hide\" frameborder=\"0\" allowfullscreen=\"\" style=\"position:absolute; top:0; left: 0\"></iframe>\n</div>\n    \n",
           "_anchor": "content3-4u",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
