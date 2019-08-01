@@ -2045,11 +2045,17 @@ body {
 }
 @media screen and (max-width: 768px) {
   .cid-rwXG3ZZAqk #Container {
-    padding-bottom: 170% !important;
+    padding-bottom: 85Vh;
+    overflow: hidden;
+  }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .cid-rwXG3ZZAqk #Container {
+    padding-bottom: 85Vh !important;
   }
 }
 .cid-ru1KRvSdpg {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
