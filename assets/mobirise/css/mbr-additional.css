@@ -1177,7 +1177,7 @@ pre {
     display: none;
   }
 }
-@media (max-width: 1023px) {
+@media (max-width: 991px) {
   .navbar-toggleable-md .navbar-nav .dropdown-menu {
     position: static;
     float: none;
@@ -1187,7 +1187,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
   .navbar-toggleable-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1384,37 +1384,6 @@ body {
   .card-wrapper {
     flex: auto!important;
   }
-}
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #0f296a;
-  color: #ffffff;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow,
-.jq-number__spin.minus:after,
-.jq-number__spin.plus:after {
-  transition: 0.4s;
-  border-top-color: currentColor;
-  border-bottom-color: currentColor;
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow,
-.jq-number__spin.minus:hover:after,
-.jq-number__spin.plus:hover:after {
-  border-top-color: #0f296a;
-  border-bottom-color: #0f296a;
-}
-.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
-.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
-.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
-  color: #ffffff !important;
-  background-color: #0f296a !important;
-  box-shadow: none!important;
-}
-.xdsoft_datetimepicker .xdsoft_calendar td:hover,
-.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #ffffff !important;
-  background: #0f7666 !important;
-  box-shadow: none !important;
 }
 .cid-rtnsINZjQR .navbar {
   background: #ffffff;
@@ -2039,20 +2008,17 @@ body {
 .cid-ru1KHSn7wE DIV {
   text-align: center;
 }
+.cid-rwXG3ZZAqk html,
+.cid-rwXG3ZZAqk body {
+  overflow: hidden;
+}
 .cid-rwXG3ZZAqk P {
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
-@media screen and (max-width: 768px) {
-  .cid-rwXG3ZZAqk #Container {
-    padding-bottom: 85Vh;
-    overflow: hidden;
-  }
-}
-@media (min-width: 320px) and (max-width: 480px) {
-  .cid-rwXG3ZZAqk #Container {
-    padding-bottom: 85Vh !important;
-  }
+.cid-rwXG3ZZAqk ifram #ViostreamIframe {
+  pointer-events: none;
+  overflow: hidden;
 }
 .cid-ru1KRvSdpg {
   padding-top: 15px;
